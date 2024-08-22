@@ -1,7 +1,7 @@
 # Kaiodee 💻 
 
  ```Artesão digital(Developer)```
- ### Ola! Sou Caio, um desenvolvedor front-end com uma grande paixão por tecnologia. Possuo conhecimentos em HTML, CSS e JavaScript, e adoro criar interfaces de usuário que sejam não apenas funcionais, mas também visualmente atraentes e fáceis de usar. Estou sempre buscando me aprimorar, aprendendo novas ferramentas e explorando frameworks modernos para manter meu trabalho atualizado com as melhores práticas da indústria. Além disso, valorizo a colaboração em equipe e acredito que a troca de conhecimentos é essencial para o desenvolvimento de projetos de sucesso. Meu objetivo é sempre entregar soluções inovadoras e eficientes que proporcionem uma excelente experiência ao usuário.
+ ### Ola! Sou Caio, um desenvolvedor front-end com uma grande paixão por tecnologia. Possuo conhecimentos em HTML, CSS e JavaScript, e adoro criar interfaces de usuário que sejam não apenas funcionais, mas também visualmente atraentes e fáceis de usar. Estou sempre buscando me aprimorar, aprendendo novas ferramentas e explorando frameworks modernos para manter meu trabalho atualizado com as melhores práticas da indústria. Além disso, valorizo a colaboração em equipe e acredito que a troca de conhecimentos é essencial para o desenvolvimento de projetos de sucesso.
  [![JOB](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caio-cesar-72315a244)
 
 
