@@ -13,4 +13,4 @@
 
 ### 🛠️ Linguagens e Ferramentas 
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vscode,p5js,mysql,flutterflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,vscode,p5js,mysql,sqlite,linux)](https://skillicons.dev)
